@@ -1,4 +1,4 @@
-### Hi there! 
+### Hi there!
 
 My name is Ben Vessely, and I'm a math major and computer science minor graduating in June 2024 who is looking for a career in software. I am currently working on creating a virtual piano using vanilla Javascript! 
 
