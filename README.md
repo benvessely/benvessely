@@ -1,6 +1,6 @@
 ### Hi there!
 
-My name is Ben Vessely, and I'm a math major and computer science minor graduating in June 2024 who is looking for a career in software engineering/development. I am currently working on a virtual piano using vanilla Javascript! 
+My name is Ben Vessely, and I'm a math major and computer science minor graduating in June 2024 who is looking for a career in software engineering/development. I am currently working on a full-stack site using Flask, MongoDB, a Flask-RESTful API, and Docker as well as a virtual piano using vanilla JavaScript. Please reach out to me at benvessely at gmail dot com or at linkedin.com/in/benvessely/ to talk about software, Overwatch, soccer, or anything else!
 
 <!--
 **benvessely/benvessely** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
